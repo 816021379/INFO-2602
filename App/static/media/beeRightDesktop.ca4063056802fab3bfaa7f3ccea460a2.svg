@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+import React from "react";
+
+function Icon() {
+  return (
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      id="svg1978"
+      width="335.44"
+      height="587.745"
+      version="1.1"
+      viewBox="0 0 335.44 587.745"
+    >
+      <defs id="defs1972">
+        <path
+          id="rect1179"
+          d="M587.917 246.678H1253.949V330.96H587.917z"
+        ></path>
+        <path
+          id="rect1063"
+          d="M1841.669 -53.782H2432.544V-10.901999999999994H1841.669z"
+        ></path>
+        <path
+          id="rect1041"
+          d="M1674.509 46.514H1893.998V97.38900000000001H1674.509z"
+        ></path>
+        <path
+          id="rect981"
+          d="M2441.992 892.49H2665.8410000000003V956.447H2441.992z"
+        ></path>
+        <path
+          id="rect869"
+          d="M2357.835 265.179H2654.543V589.699H2357.835z"
+        ></path>
+        <path
+          id="rect863"
+          d="M2327.16 1104.711H2782.1259999999997V1178.843H2327.16z"
+        ></path>
+        <path
+          id="rect857"
+          d="M2411.467 42.153H2814.105V120.64599999999999H2411.467z"
+        ></path>
+        <path
+          id="rect974"
+          d="M2411.467 42.153H2814.105V120.64599999999999H2411.467z"
+        ></path>
+        <path
+          id="rect994"
+          d="M2441.992 892.49H2665.8410000000003V956.447H2441.992z"
+        ></path>
+        <path
+          id="rect1016"
+          d="M2441.992 892.49H2665.8410000000003V956.447H2441.992z"
+        ></path>
+        <path
+          id="rect1027"
+          d="M2441.992 892.49H2665.8410000000003V956.447H2441.992z"
+        ></path>
+        <path
+          id="rect1037"
+          d="M2441.992 892.49H2665.8410000000003V956.447H2441.992z"
+        ></path>
+        <path
+          id="rect1113"
+          d="M2357.835 265.179H2988.706V515.134H2357.835z"
+        ></path>
+        <path
+          id="rect1175"
+          d="M2441.992 892.49H2665.8410000000003V956.447H2441.992z"
+        ></path>
+      </defs>
+      <g id="layer1" display="inline" transform="translate(-1484.493 -226.246)">
+        <text
+          xmlSpace="preserve"
+          id="text838"
+          x="3029.006"
+          y="58.586"
+          fontFamily="Maven Pro"
+          fontSize="16"
+        ></text>
+      </g>
+      <g id="layer2" transform="translate(-1484.493 -226.246)">
+        <g id="g1134">
+          <g
+            id="g1143"
+            fillOpacity="1"
+            strokeLinecap="square"
+            strokeWidth="0.591"
+            paintOrder="markers stroke fill"
+            transform="scale(-1.69131 1.69131) rotate(22.543 82.102 -7546.283)"
+          >
+            <path
+              id="path1135"
+              
+              fill="#ff0"
+              d="M2134.563 276.995a13.082 21.167 0 01-13.082 21.167 13.082 21.167 0 01-13.083-21.167 13.082 21.167 0 0113.082-21.167 13.082 21.167 0 0113.083 21.167z"
+              stopColor="#000"
+            ></path>
+            <path
+              id="path1137"
+              
+              fill="#000"
+              d="M2109.637 268.006a13.082 21.167 0 00-.94 4.496h25.567a13.082 21.167 0 00-.94-4.496zm-1.237 8.607a13.082 21.167 0 000 .381 13.082 21.167 0 00.25 4.117h25.664a13.082 21.167 0 00.25-4.117 13.082 21.167 0 000-.38zm.778 7.58a13.082 21.167 0 001.4 4.498h21.807a13.082 21.167 0 001.398-4.498z"
+              stopColor="#000"
+            ></path>
+            <path
+              
+              id="rect1139"
+              fill="#000"
+              d="M1755.433 1197.35H1757.36V1210.326H1755.433z"
+              stopColor="#000"
+              transform="rotate(-27.581)"
+            ></path>
+            <path
+              
+              id="rect1141"
+              fill="#000"
+              d="M-2005.03 -766.999H-2003.103V-754.023H-2005.03z"
+              stopColor="#000"
+              transform="scale(-1 1) rotate(-27.581)"
+            ></path>
+          </g>
+          <g
+            id="g1153"
+            fillOpacity="1"
+            strokeLinecap="square"
+            strokeWidth="0.591"
+            paintOrder="markers stroke fill"
+            transform="matrix(1.56209 .6484 -.6484 1.56209 -1625.23 -1225.74)"
+          >
+            <path
+              id="path1145"
+              
+              fill="#ff0"
+              d="M2134.563 276.995a13.082 21.167 0 01-13.082 21.167 13.082 21.167 0 01-13.083-21.167 13.082 21.167 0 0113.082-21.167 13.082 21.167 0 0113.083 21.167z"
+              stopColor="#000"
+            ></path>
+            <path
+              id="path1147"
+              
+              fill="#000"
+              d="M2109.637 268.006a13.082 21.167 0 00-.94 4.496h25.567a13.082 21.167 0 00-.94-4.496zm-1.237 8.607a13.082 21.167 0 000 .381 13.082 21.167 0 00.25 4.117h25.664a13.082 21.167 0 00.25-4.117 13.082 21.167 0 000-.38zm.778 7.58a13.082 21.167 0 001.4 4.498h21.807a13.082 21.167 0 001.398-4.498z"
+              stopColor="#000"
+            ></path>
+            <path
+              
+              id="rect1149"
+              fill="#000"
+              d="M1755.433 1197.35H1757.36V1210.326H1755.433z"
+              stopColor="#000"
+              transform="rotate(-27.581)"
+            ></path>
+            <path
+              
+              id="rect1151"
+              fill="#000"
+              d="M-2005.03 -766.999H-2003.103V-754.023H-2005.03z"
+              stopColor="#000"
+              transform="scale(-1 1) rotate(-27.581)"
+            ></path>
+          </g>
+          <g
+            id="g1163"
+            fillOpacity="1"
+            strokeLinecap="square"
+            strokeWidth="0.591"
+            paintOrder="markers stroke fill"
+            transform="matrix(-1.56209 .6484 .6484 1.56209 4929.656 -1529.977)"
+          >
+            <path
+              id="path1155"
+              
+              fill="#ff0"
+              d="M2134.563 276.995a13.082 21.167 0 01-13.082 21.167 13.082 21.167 0 01-13.083-21.167 13.082 21.167 0 0113.082-21.167 13.082 21.167 0 0113.083 21.167z"
+              stopColor="#000"
+            ></path>
+            <path
+              id="path1157"
+              
+              fill="#000"
+              d="M2109.637 268.006a13.082 21.167 0 00-.94 4.496h25.567a13.082 21.167 0 00-.94-4.496zm-1.237 8.607a13.082 21.167 0 000 .381 13.082 21.167 0 00.25 4.117h25.664a13.082 21.167 0 00.25-4.117 13.082 21.167 0 000-.38zm.778 7.58a13.082 21.167 0 001.4 4.498h21.807a13.082 21.167 0 001.398-4.498z"
+              stopColor="#000"
+            ></path>
+            <path
+              
+              id="rect1159"
+              fill="#000"
+              d="M1755.433 1197.35H1757.36V1210.326H1755.433z"
+              stopColor="#000"
+              transform="rotate(-27.581)"
+            ></path>
+            <path
+              
+              id="rect1161"
+              fill="#000"
+              d="M-2005.03 -766.999H-2003.103V-754.023H-2005.03z"
+              stopColor="#000"
+              transform="scale(-1 1) rotate(-27.581)"
+            ></path>
+          </g>
+          <path
+            id="trailright"
+            fill="none"
+            stroke="#000"
+            strokeDasharray="8, 8"
+            strokeDashoffset="100"
+            strokeLinecap="butt"
+            strokeLinejoin="miter"
+            strokeMiterlimit="4"
+            strokeOpacity="1"
+            strokeWidth="1"
+            d="M1723.666 721.02c-17.315-19.931-43.49-31.864-69.893-31.862-17.897 0-35.326 5.162-52.76 9.21-17.434 4.047-35.754 6.997-53.106 2.61-13.172-3.33-25.232-10.923-33.93-21.36-8.698-10.439-13.99-23.67-14.892-37.226"
+          ></path>
+          <path
+            id="trailright"
+            fill="none"
+            stroke="#000"
+            strokeDasharray="8, 8"
+            strokeDashoffset="100"
+            strokeLinecap="butt"
+            strokeLinejoin="miter"
+            strokeMiterlimit="4"
+            strokeOpacity="1"
+            strokeWidth="1"
+            d="M1529.893 514.947c.235-20.105 8.01-40.034 21.451-54.989 18.503-20.586 46.246-30.804 73.72-34.179 27.473-3.374 55.271-.66 82.924.546 18.117.789 36.656.87 53.878-4.805 19.748-6.508 36.855-20.69 46.912-38.888 10.057-18.198 12.961-40.23 7.963-60.412"
+          ></path>
+        </g>
+      </g>
+    </svg>
+
+
