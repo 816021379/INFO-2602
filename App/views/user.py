@@ -1,6 +1,6 @@
 from App.controllers.auth import authenticate, identity, logout_user
 from flask_sqlalchemy import SQLAlchemy
-from App.controllers.user import get_user_profile
+from App.controllers.user import get_score, get_user_profile
 from flask_login import login_required,current_user
 from flask import Blueprint, render_template, jsonify, request, send_from_directory,redirect
 from flask_jwt import jwt_required,current_identity
@@ -14,8 +14,10 @@ db = SQLAlchemy()
 
 
 from App.controllers import (
+    authenticate,
     identity,
     create_user, 
+    delete_user,
     get_all_users,
     get_leaderboard_users,
     get_all_users_json,
@@ -56,9 +58,10 @@ def client_app():
 def lol():
     return 'lol'
 
-@user_views.route("/api/newword",methods=['GET'])
+@user_views.route("/api/newword",methods=['POST'])
 def generate():
-    newword=generateword()
+    wordDifficulty = request.json['difficulty']
+    newword=generateword(wordDifficulty)
     return newword
     
 
@@ -116,5 +119,16 @@ def get_profile():
     username =request.json['username']
     return get_user_profile(username)
 
+@user_views.route('/getscore',methods=['POST'])
+def get_user_score():
+    username=request.json['username']
+    return get_score(username)
 
+@user_views.route('/deleteuser',methods=['DELETE'])
+@login_required
+def delete_user_account():
+    username= request.json["username"]
+    print(username)
+    password=request.json['password']
+    return delete_user(username,password)
 
