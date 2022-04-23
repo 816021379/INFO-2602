@@ -15,10 +15,10 @@ def update_score(username):
 def get_all_users():
     return User.query.all()
 
-def checkword(input,word,username):
+def checkword(input,word,username,difficulty):
     if (input.lower() == word.lower()):
         update_score(username)
-        return generateword()
+        return generateword(difficulty)
     else:
         return "Not spelled correctly"
 

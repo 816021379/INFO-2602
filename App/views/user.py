@@ -72,8 +72,9 @@ def update():
     print(input+" input")
     word = request.json['word']
     print(word+" word")
+    difficulty = request.json['difficulty']
     print(current_user.username+" username")
-    return checkword(input,word,current_user.username)
+    return checkword(input,word,current_user.username,difficulty)
 
 @user_views.route('/login', methods=['POST'])
 def login():
