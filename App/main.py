@@ -8,6 +8,7 @@ from werkzeug.utils import secure_filename
 from werkzeug.datastructures import  FileStorage
 from datetime import timedelta
 from App.models.user import User
+
 login_manager = LoginManager()
 
 from App.database import create_db, get_migrate
